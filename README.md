@@ -9,5 +9,5 @@ __ระบบนี้พัฒนาโดยใช้__
 
 ![formInput](/image/002_form.png)
 
-![qrcode](/image/003_qrcode.png)
+![qrcode2](/image/003_qrcode.png)
 
